@@ -1,15 +1,19 @@
 # dpi-ips-project
 Intrusion Prevention System using DPI
 
-# DPI Intrusion Prevention System
+## Project Description
+This project implements a Deep Packet Inspection (DPI) based Intrusion Prevention System (IPS) using Python.
 
-This project detects and prevents network attacks using Deep Packet Inspection (DPI) and Machine Learning.
-
-Features:
-- Packet capture using Scapy
-- Detects DNS, HTTP, TLS traffic
+## Features
+- Real-time packet capture using Scapy
+- DNS, HTTP, TLS parsing
+- Domain detection
+- Rule-based + ML detection
 - Uses NSL-KDD dataset
-- Accuracy: 99%
+- Achieves ~99% accuracy
 
-Run:
+## How to Run
 python main.py
+
+## Dataset
+NSL-KDD Dataset
