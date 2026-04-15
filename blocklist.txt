@@ -1,0 +1,8 @@
+ogs.google.com
+bing.com
+trafficmanager.net
+telemetry.microsoft.com
+canva.com
+telemetry.canva.com
+youtube.com
+facebook.com
