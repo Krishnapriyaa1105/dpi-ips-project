@@ -1,0 +1,4 @@
+{
+    "block_domains": ["malware.com", "phishing.com"],
+    "track_domains": ["google.com", "youtube.com", "whatsapp.net"]
+}
